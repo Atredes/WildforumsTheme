@@ -1,10 +1,20 @@
 WildforumsTheme
 ===============
 
-Wildforums theme for 'Stylish' to be used on http://community.kabam.com/
-Work in process
+Wildforums theme for 'Stylish' to be used on http://community.kabam.com/    
+**Work in process**
 
 
 ####Get Stylish
 #####[Stylish for  Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
-#####[Stylish for Firefox](https://addons.mozilla.org/us/firefox/addon/stylish/)
+#####[Stylish for Firefox](https://addons.mozilla.org/us/firefox/addon/stylish)
+
+####Contribute
+
+######Note: I'm not *css* person - be aware that it's heavily crappy code so far.
+
+
+
+
+
+
