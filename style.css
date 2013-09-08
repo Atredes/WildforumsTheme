@@ -1,10 +1,21 @@
+
+
     body
     {
         background: rgb(243,243, 243) !important;
         color: rgb(0, 0, 0) !important;
     }
+    .description {
     
-   .body_wrapper, .above_body {
+     color: rgb(0, 0, 0) !important;
+     }
+#subject, #title {
+    color: rgb(11, 11, 11)!important;
+    background-color: rgb(243, 243, 243)!important;
+}
+    
+    .body_wrapper, .above_body {
+    
     max-width: 1200px !important;
     margin: 0 auto !important;
     }
@@ -12,6 +23,35 @@
     #main-header {
     height: 100px !important;
     
+    }
+    
+    .texteditor.forum .cke_skin_kama textarea.cke_source, .texteditor.forum textarea {
+    color: rgb(11, 11, 11) !important;
+    background-color: rgb(240, 240, 240) !important;
+}
+  
+    
+    .wysiwyg_block {
+    color: rgb(0, 0, 0) !important;
+    
+    }
+    
+    
+    
+    
+.blockfoot, .blocksubfoot {
+    display: block;
+    clear: both;
+    background: none repeat scroll 0% 0% !important;
+    padding: 5px 0px;
+    border: 0px none rgb(102, 204, 0);
+}
+
+    
+        .button
+    {
+     background:  rgb(26, 26,26)  !important;
+    color: rgb(170, 0, 0) !important;
     }
     .label {
             color: rgb(0, 0, 0) !important;
@@ -194,6 +234,3 @@ box-shadow: 0px 0px 0px rgb(66, 66, 66) !important;
     background-color: rgb(243, 243, 243) !important;
     padding: 5px 10px;
 }
-
-    
-    
