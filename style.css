@@ -1,8 +1,12 @@
-
     body
     {
         background: rgb(243,243, 243) !important;
         color: rgb(0, 0, 0) !important;
+    }
+    
+   .body_wrapper, .above_body {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
     }
     
     #main-header {
