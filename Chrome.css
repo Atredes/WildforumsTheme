@@ -1,0 +1,195 @@
+
+    body
+    {
+        background: rgb(243,243, 243) !important;
+        color: rgb(0, 0, 0) !important;
+    }
+    
+    #main-header {
+    height: 100px !important;
+    
+    }
+    .label {
+            color: rgb(0, 0, 0) !important;
+    }
+        .newcontent_textcontrol {
+        
+     background:  rgb(26, 26,26)  !important;
+    color: rgb(170, 0, 0) !important;
+    text-decoration: none !important;
+    border: 1px !important;
+}
+    .newcontent_textcontrol:hover {
+    background:  rgb(44, 44, 44)  !important;
+    color: rgb(170, 0, 0) !important;
+    text-decoration: none !important;
+}
+
+
+    #logo {
+    background: url("http://img153.imageshack.us/img153/7818/6fh2.png") no-repeat scroll center center transparent  !important;
+    width: 250px  !important;
+    height: 142px  !important;
+    position: absolute  !important;
+    top: -23px  !important;
+    }
+    
+    #pagetitle h1 {
+    color: rgb(175,0,0)  !important;
+   }
+  .forumdescription {
+  
+  font-size: 17px !important;
+  }
+  
+  .label {
+   font-size: 13px !important;
+  }
+  .threadbit .threadtitle {
+   font-size: 16px !important;
+   margin-top: 15px !important; 
+   text-transform: none !important;
+  }
+  
+  .threadbit .threadinfo {
+  padding: 0px !important
+  
+  }
+    
+    .tcatBar h2 {
+    color:  rgb(175,0,0)  !important;
+    
+    }
+    .forumrow {
+    background: rgb(230,230, 230) !important;
+    border: none !important;
+    margin-bottom: 15px !important;
+    }
+    .threadbit .nonsticky, .threadbit .discussionrow {
+   background: rgb(230,230, 230) !important;
+   color: : rgb(11,11, 11) !important;
+    }
+    .threadbit
+    {
+    background: rgb(230,230, 230) !important;
+    border: none !important;
+    color: : rgb(11,11, 11) !important;
+    margin-bottom: 15px !important;
+    }
+    .postbitlegacy .postbody, .userinfo {
+     background: rgb(255,255, 255) !important;
+     border: none !important;
+    
+    }
+    .posthead, .posthead .time {
+     background: rgb(255,255, 255) !important;
+     border: none !important;
+     color: rgb(0,0, 0) !important;
+    }
+    
+    
+    
+    a, .username {
+    color:  rgb(175,0,0)  !important;
+    text-decoration: none !important;
+    }
+    
+    .postbitlegacy .postdetails, .eventbit .eventdetails{
+        float: left;
+        width: 100%;
+        background:rgb(255,255,255) !important;
+         border: none !important;
+
+    }
+    
+    .threadstats, .threadlastpost
+     {
+    color:  rgb(0,0,0)  !important;
+      }
+    .sticky {
+    background: rgb(210,210,210) !important;
+        border: none !important;
+    }
+    div.bbcode_quote {
+    background: rgb(243,243, 243) !important;
+    color: rgb(0,0, 0) !important;
+    }
+    
+    
+    .postbitlegacy .postrow, .eventbit .eventrow, .postbitdeleted .postrow, .postbitignored .postrow {
+    color: rgb(0, 0,0) !important;
+     border: none !important;
+   }
+   
+   .title {
+   color:  rgb(175,0,0)  !important;
+    border: none !important;
+   }
+   .postdetails {
+       border: none !important;
+   }
+   
+   #sitemap, footer, #footerMain, .options_block2, .options_block{
+   display: none !important;
+   }
+   
+   .forumstats_2, .forumdescription
+   
+   {
+   color:  rgb(11,11,11)  !important;
+    border: none !important;
+   }
+   
+   
+   .forumbit_post, .forumrow, .thead_bar, .theadrow, .threadbit,  .threadbit .nonsticky, .threadbit .discussionrow, .threadlisthead, .postcontainer {
+     border: none !important;
+     }
+   .postcontainer {
+   border-radius: 15px 15px 0px 0px !important;
+    background: rgb(255,255,255)  !important;
+   }
+   .posthead{
+        background: none !important;
+        border-bottom: 1px rgb(200,200,200)!important;
+
+    }
+
+   .username_container u{
+    color: rgb(94, 146, 80) !important;
+    text-decoration: none;
+    }
+    
+    .postbitlegacy .postfoot .textcontrols a.newreply,.postbitlegacy .postfoot .textcontrols a.multiquote, .postbit .postfoot .textcontrols a.newreply {
+    background-color: rgb(243, 243, 243) !important;
+    border: 1px solid rgb(255, 255,255) !important;
+    }
+    
+.postbitlegacy .postfoot .textcontrols a.multiquote:hover, .postbit .postfoot .textcontrols a.multiquote:hover {
+    background: rgb(220, 211,211) !important;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.postbitlegacy .postfoot .textcontrols a.newreply:hover, .postbit .postfoot .textcontrols a.newreply:hover {
+    background: rgb(220, 211,211) !important;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.blockhead {
+
+box-shadow: 0px 0px 0px rgb(66, 66, 66) !important;
+}
+
+.blockbody {
+ background-color: rgb(243, 243, 243) !important;
+
+}
+
+.blockrow {
+    background-color: rgb(243, 243, 243) !important;
+    padding: 5px 10px;
+}
+
+    
+    
