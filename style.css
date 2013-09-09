@@ -1,5 +1,7 @@
 
-
+pre.bbcode_code{
+ color: rgb(244, 244, 244) !important;
+}
     body
     {
         background: rgb(243,243, 243) !important;
@@ -234,3 +236,9 @@ box-shadow: 0px 0px 0px rgb(66, 66, 66) !important;
     background-color: rgb(243, 243, 243) !important;
     padding: 5px 10px;
 }
+.postbitlegacy .postfoot .textcontrols {
+background: transparent !important;
+border-top: 1px !important;
+border-color: #000 !important;
+}
+    
